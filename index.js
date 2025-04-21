@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
 
-const bot = new Telegraf('YOUR_BOT_TOKEN'); // replace with your token
+const bot = new Telegraf('7786541667:AAEE8-DhVKcXs7iueLbQytE6IyvKBAS96AA');
 
 bot.start((ctx) => {
   ctx.reply("Welcome! 👋 Click the button below to apply for graphics design jobs.", {
